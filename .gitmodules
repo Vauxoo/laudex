@@ -1,0 +1,4 @@
+[submodule "laudex"]
+	path = laudex
+	url = git@git.vauxoo.com:vauxoo/laudex.git
+	branch = 18.0
